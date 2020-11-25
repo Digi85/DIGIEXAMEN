@@ -19,7 +19,7 @@ public class ConectaBd {
         return cn;
     }
                                                           //NOMBRE DE LA BASE DE DATOS
-    private final String url = "jdbc:mysql://localhost:3306/biblioteca_quinteros";
+    private final String url = "jdbc:mysql://localhost:3306/biblio_esquivel";
     private final String driver = "com.mysql.jdbc.Driver";
     private final String user = "root";
     private final String password = "";
